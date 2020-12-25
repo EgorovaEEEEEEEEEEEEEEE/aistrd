@@ -1,0 +1,13 @@
+e:\Users\Елена\Desktop\Calculator-master\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+e:\Users\Елена\Desktop\Calculator-master\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+e:\Users\Елена\Desktop\Calculator-master\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+e:\Users\Елена\Desktop\Calculator-master\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+e:\Users\Елена\Desktop\Calculator-master\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+e:\Users\Елена\Desktop\Calculator-master\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+e:\Users\Елена\Desktop\Calculator-master\Calculator\obj\Debug\netcoreapp3.1\Calculator.csprojAssemblyReference.cache
+e:\Users\Елена\Desktop\Calculator-master\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+e:\Users\Елена\Desktop\Calculator-master\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+e:\Users\Елена\Desktop\Calculator-master\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+e:\Users\Елена\Desktop\Calculator-master\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+e:\Users\Елена\Desktop\Calculator-master\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+e:\Users\Елена\Desktop\Calculator-master\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
